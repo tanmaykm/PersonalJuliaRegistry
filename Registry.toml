@@ -11,4 +11,5 @@ some amount of consideration when choosing package names.
 """
 
 [packages]
+3349acd9-ac6a-5e09-bcdb-63829b23a429 = { name = "ProtoBuf", path = "P/ProtoBuf" }
 bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26 = { name = "GitHub", path = "G/GitHub" }
